@@ -1,16 +1,6 @@
 # ICFP Contest 2013 - Team "A Storm of Minds"
 
-Instead of the usual writeup, I'll present our answers to the judges survey.
-
-**2013-08-07** - Getting ready for the 2013 ICFP contest.
-
-I was quite a bit put-off by the pre-registration requirement. While rather sophisticated, this contest had always had a large "for fun" part, and it was always accepted pracice to have a go at the problem and just submitting a solution if you feel like it. For added offense, the EasyChair registration has address and phone number as required fields. This is really obnoxious.
-
-But let's forget about that for now, and just enjoy the contest. Start in less than 35 hours - have to catch up on sleep.
-
-**2013-08-09** - Impractical Task format - is there no PDF? I really have an aversion agains MS. And no touchdevelop?! But it seems it's only the website and not needed for the contest. Phew.
-Core task seems interesting, but the infrastructure needs network programming, timeouts, and such real-world stuff. Sigh.
-
+Instead of the usual writeup, I'll present our answers to the judges survey:
 
 ### 1. Did you do any preparation for the contest before the start date?
 
