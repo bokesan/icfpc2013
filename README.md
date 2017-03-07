@@ -91,7 +91,7 @@ No – I don’t think we understood the hint, only used the knowledge that tfol
 
 ### 5. What steps did you take to parallelize the search?
 
-We figured early on that even a factor-10 speedup through parallelism would only enable us to solve problems of 1-2 size larger, so we did not concentrate on that approach. That said, in the later “kamikaze” mode, we ran out program on 5 systems.
+We figured early on that even a factor-10 speedup through parallelism would only enable us to solve problems of 1-2 size larger, so we did not concentrate on that approach. That said, in the later “kamikaze” mode, we ran our program on 5 systems.
 
 > How much parallelism did you manage to achieve? For example, how
 > many threads/processes did you have going in parallel?
@@ -178,7 +178,7 @@ Laptop, normal PC, some other PCs in the office. We were somewhat hampered by ha
 
 Surprised that we did so well using only a brute-force approach. I’ve had fun implementing  the value-propagation pass (Reduce2.hs), and was delighted that the formulas from “Hacker’s Delight” actually helped.
  
-Being able to use the usual `(take n (“lazy list of all possible programs”))` approach in Haskell was also helpful. Generating possible programs before actually starting the timer by eval seems like one of the really good ideas. When deadline came near, it got very exciting to try and work on all problems in time without getting the burn ratio too high.
+Being able to use the usual `(take n (“lazy list of all possible programs”))` approach in Haskell was also helpful. Generating possible programs before actually starting the timer by eval seems like one of the really good ideas. When the deadline came near, it got very exciting to try and work on all problems in time without getting the burn ratio too high.
 
 Seeing some rough scoreboard estimates really motivated us. Chatting in IRC was very nice, too.
 
